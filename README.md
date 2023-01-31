@@ -1,2 +1,2 @@
 # AngularBasic
-Angular 14 Basic StandAlone project
+Angular 14 project
